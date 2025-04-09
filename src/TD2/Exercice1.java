@@ -1,6 +1,6 @@
 package TD2;
 
-public class Exercice1Partie2 {
+public class Exercice1 {
     public static void main(String[] args) {
 
         Segment s = new Segment();
